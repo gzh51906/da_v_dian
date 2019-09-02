@@ -2,7 +2,7 @@
   <div class="navbar">
     <van-nav-bar>
       <left slot="left"></left>
-      <title1 slot="title"></title1>
+      <titlel slot="title"></titlel>
       <right  slot="right"></right>
     </van-nav-bar>
   </div>
@@ -10,7 +10,7 @@
 
 <script>
 import left from "./Znavbar/left"
-import title1 from "./Znavbar/title"
+import titlel from "./Znavbar/title"
 import right from "./Znavbar/right"
 export default {
   data() {
@@ -22,7 +22,7 @@ export default {
   },
   components:{
     left,
-    title1,
+    titlel,
     right
   }
 };
