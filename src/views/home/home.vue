@@ -1,19 +1,15 @@
 <template>
         <div>
-            <p>
-                 首页
-                 buzhidao 
-            </p>
-            <p>
-                你不好
-            </p>
+           <navbar/>
         </div>
-
 </template>
 
 <script>
+import navbar from "./navbar"
 export default {
-
+    components:{
+        navbar
+    }
 }
 </script>
 
