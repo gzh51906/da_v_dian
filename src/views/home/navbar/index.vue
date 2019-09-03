@@ -10,7 +10,7 @@
 
 <script>
 import left from "./Znavbar/left"
-import titlel from "./Znavbar/title"
+import titlel from "./Znavbar/titlel"
 import right from "./Znavbar/right"
 export default {
   name: 'Znavbar',

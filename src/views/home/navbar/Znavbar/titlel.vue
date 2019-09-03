@@ -8,7 +8,7 @@
 
 <script>
 export default {
-  name: "title",
+  name: "titlel",
   data() {
     return {
       value: ""
