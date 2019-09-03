@@ -28,7 +28,7 @@ data() {
       "https://stc.davdian.com/topic/topic_31016.json?_=1567413576152"
     );
 //  console.log(lunboList.data.list.slice(1,5));
-     this.goodslist =lunboList.data.list.slice(1,5);
+     this.goodslist =lunboList.list.slice(1,5);
 
   },
 
