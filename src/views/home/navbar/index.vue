@@ -13,7 +13,9 @@ import left from "./Znavbar/left"
 import titlel from "./Znavbar/title"
 import right from "./Znavbar/right"
 export default {
+  name: 'Znavbar',
   data() {
+    
     return{
       value:""
     }

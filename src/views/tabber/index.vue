@@ -16,6 +16,7 @@
 
 <script>
 export default {
+  name: 'tabber',
 data() {
     return {
       active: "home",
