@@ -19,12 +19,18 @@ let router = new VueRouter({
         {
             path: '/goodslist',
             name: 'goodslist',
-            component: shopcart
+            component: goodslist
+        },
+        {
+            path: '/goodsitem',
+            name: 'goodsitem',
+            component: () =>
+                import ("@views/goodsitem")
         },
         {
             path: '/shopcart',
             name: 'shopcart',
-            component: goodslist
+            component: shopcart
         },
         {
             path: '/college',
