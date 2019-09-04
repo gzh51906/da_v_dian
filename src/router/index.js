@@ -4,6 +4,10 @@ Vue.use(VueRouter);
 import Home from '../views/home/home.vue'
 import college from '../views/college/college.vue'
 import book from '../views/book/book.vue'
+import maishu from '../views/book/pages/maishu.vue'
+import jianshu from '../views/book/pages/jianshu.vue'
+import dushu from '../views/book/pages/dushu.vue'
+import tingshu from '../views/book/pages/tingshu.vue'
 
 
 let router = new VueRouter({
@@ -22,9 +26,40 @@ routes:[{
       path: '/book',
       name: 'book',
       component: book,
+},
+{
+      path: '/maishu',
+      name: 'maishu',
+      component: maishu,
+},
+{
+      path: '/dushu',
+      name: 'dushu',
+      component: dushu,
+},
+{
+      path: '/jianshu',
+      name: 'jianshu',
+      component: jianshu,
+},
+{
+      path: '/tingshu',
+      name: 'tingshu',
+      component: tingshu,
 }
 ]
 
 });
+router.beforeEach(function (to, from, next) {
+      console.log('beforeEach', to, from);
+      // if(已登录)
+      next();
+  
+      // else
+      // next({
+      // path:'/login',
+      // query:{target:to.fullPath}
+      // })
+  })
 
 export default router;

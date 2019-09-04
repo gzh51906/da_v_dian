@@ -4,7 +4,8 @@
 <router-view/>
 
     <div class="start">
-          <van-tabbar v-model="active" active-color="#fc345f">
+          <van-tabbar v-model="active" active-color="#fc345f"
+          v-if="this.$route.name=='home'|this.$route.name=='search' | this.$route.name=='book' | this.$route.name=='college'">
 <van-tabbar-item 
   v-for="(ele,index) in datalist"
     :key="index" 
