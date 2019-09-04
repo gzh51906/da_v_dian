@@ -1,21 +1,19 @@
 <template>
         <div>
            <navbar/>
-           <lunbo/>
-           <mainl/>
+           <Home/>
+     
         </div>
 </template>
 
 <script>
 import navbar from "./navbar"
-import lunbo from "./home_lq/lunbo"
-import mainl from "./home_lq/main"
+import Home from "./home_lq"
 export default {
     name: 'home',
     components:{
         navbar,
-        lunbo,
-        mainl
+     Home
     }
 }
 </script>
