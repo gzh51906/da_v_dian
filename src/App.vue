@@ -1,28 +1,27 @@
 <template>
   <div id="app">
-    <router-view/>
-    <tabbar/>
+    <h2>1</h2>
+    <!-- <router-view /> -->
+    <tabbar />
   </div>
 </template>
 
 <script>
-  import tabbar from "./views/tabber"
+import tabbar from "./views/tabber";
 
 export default {
-  name: 'app',
-data() {
-    return {
-      
-    };
+  name: "app",
+  data() {
+    return {};
   },
   components: {
-   tabbar
+    tabbar
   }
-}
+};
 </script>
 <style>
-    *{
-      padding: 0;
-       margin: 0;
-    }
+* {
+  padding: 0;
+  margin: 0;
+}
 </style>
