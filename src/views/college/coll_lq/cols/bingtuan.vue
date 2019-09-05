@@ -49,7 +49,7 @@ export default {
     let lunboList = await this.$axios.get( 
       "https://www.aizhiyi.com/mobile/index.php?act=group_buy&op=group_buy_hug&key="
     );
-     this.goodslist =lunboList.data.datas.group_list;
+     this.goodslist =lunboList.datas.group_list;
   },
 
 

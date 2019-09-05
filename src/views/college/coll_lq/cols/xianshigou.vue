@@ -74,7 +74,7 @@ this.$router.push({
     let lunboList = await this.$axios.get( 
       "https://www.aizhiyi.com/mobile/index.php?act=promotion&key="
     );
-     this.goodslist =lunboList.data.datas.goods_list;
+     this.goodslist =lunboList.datas.goods_list;
   },
 
 
