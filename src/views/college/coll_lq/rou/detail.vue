@@ -1,15 +1,14 @@
 <template>
     <div>
-       <coll/>
+        <p>123
+           
+        </p>
     </div>
 </template>
 
 <script>
-import coll from "./coll_lq"
 export default {
-  components:{
-      coll
-    }
+
 }
 </script>
 

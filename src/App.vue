@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <h2>1</h2>
-    <!-- <router-view /> -->
+    <!-- <h2>1</h2> -->
+    <router-view />
     <tabbar />
   </div>
 </template>

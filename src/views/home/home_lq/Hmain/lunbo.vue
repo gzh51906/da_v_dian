@@ -1,5 +1,5 @@
 <template>
-        <div>
+        <div  class="luobo_lq">
    <van-swipe :autoplay="3000" indicator-color="white" >
     <van-swipe-item  v-for="(item,index) in goodslist"    :key="index"    >
 <img :src="item.imgUrl" alt="" >   
@@ -33,9 +33,21 @@ data() {
   },
 
 }
+
+       
+
+
+
+
 </script>
 <style  scoped>
-  img{
+
+.luobo_lq{
+  width: 100%;
+   height: 5.5rem;
+}
+
+  .luobo_lq img{
     width: 100%;
     height: 100%;
   }

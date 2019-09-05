@@ -10,6 +10,8 @@ import maishu from '../views/book/pages/maishu.vue'
 import jianshu from '../views/book/pages/jianshu.vue'
 import dushu from '../views/book/pages/dushu.vue'
 import tingshu from '../views/book/pages/tingshu.vue'
+import detail from '../views/college/coll_lq/rou/detail.vue'
+
 
 let router = new VueRouter({
       mode: 'history',
@@ -63,6 +65,11 @@ let router = new VueRouter({
             path: '/tingshu',
             name: 'tingshu',
             component: tingshu,
+      },
+      {
+            path: '/detail',
+            name: 'detail',
+            component: detail,
       }
       ]
 })

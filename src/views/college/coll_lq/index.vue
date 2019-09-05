@@ -1,14 +1,16 @@
 <template>
+    
     <div>
-       <coll/>
+        <one/>
     </div>
+
 </template>
 
 <script>
-import coll from "./coll_lq"
+import one from "./cols/one"
 export default {
-  components:{
-      coll
+ components:{
+     one
     }
 }
 </script>
