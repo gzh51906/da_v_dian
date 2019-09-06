@@ -35,8 +35,8 @@ export default {
                 state.cartlist = state.cartlist.map(e => {
                     if (e.goods_id == a) {
                         e.qty += 1
-                        return e
                     }
+                    return e
                 })
             } else {
                 const temp = {}
@@ -54,8 +54,8 @@ export default {
                 state.cartlist = state.cartlist.map(e => {
                     if (e.goods_id == a) {
                         (e.qty != 0) && (e.qty -= 1)
-                        return e
                     }
+                    return e
                 })
             } else {
                 state.cartlist = state.cartlist.filter(e => e != a.id)

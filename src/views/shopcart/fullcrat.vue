@@ -74,6 +74,8 @@ export default {
     }
   },
   created() {
+    console.log(1);
+    
     this.initcheck();
     this.isallcheck();
   }
