@@ -27,7 +27,7 @@ import xianshigou from "./xianshigou"
 import bingtuan from "./bingtuan"
 export default {
 
-     components:{
+components:{
      xianshigou,
      bingtuan
     }

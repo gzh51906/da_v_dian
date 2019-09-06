@@ -6,7 +6,7 @@ import college from '../views/college/college.vue'
 import book from '../views/book/book.vue'
 import shopcart from '../views/shopcart'
 import goodslist from '../views/goodslist'
-import detail from '../views/college/coll_lq/rou/detail.vue'
+import detail from '../views/detail_lq'
 
 
 let router = new VueRouter({
@@ -38,7 +38,7 @@ let router = new VueRouter({
             component: college,
         },
          {
-            path: '/detail',
+            path: '/detail/:id',
             name: 'detail',
             component: detail,
         },
@@ -50,5 +50,9 @@ let router = new VueRouter({
     ]
 
 });
+
+
+
+
 
 export default router;
