@@ -30,8 +30,10 @@ import axios from 'axios'
 Vue.prototype.$axios = axios
 Vue.config.productionTip = false
 import mixins from "./mixins"
+import store from './store/store'
 Vue.mixin(mixins)
 new Vue({
-  router,
-  render: h => h(App),
+    router,
+    store,
+    render: h => h(App)
 }).$mount('#app')

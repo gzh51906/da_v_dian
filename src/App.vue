@@ -2,7 +2,7 @@
   <div id="app">
     <!-- <h2>1</h2> -->
     <router-view />
-    <tabbar />
+    <div ref="tab"><tabbar /></div>
   </div>
 </template>
 
@@ -23,5 +23,16 @@ export default {
 * {
   padding: 0;
   margin: 0;
+}
+.clearfix::before {
+  content: "";
+  clear: both;
+  display: block;
+  height: 0;
+  overflow: hidden;
+  visibility: hidden;
+}
+.unshow{
+  display: none;
 }
 </style>

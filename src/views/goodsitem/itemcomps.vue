@@ -1,6 +1,6 @@
 <template>
   <div class="df">
-    <a class="good_item" v-for="item of data" :key="item.goods_id">
+    <a class="good_item" v-for="item of data" :key="item.goods_id" @click="goto(`/goodsinfo/${item.goods_id}`)">
       <div class="good_img_container">
         <div class="img_container good_img_container">
           <img :src='item.goods_img' lazy="loaded" />
