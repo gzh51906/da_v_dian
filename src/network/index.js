@@ -20,4 +20,8 @@ const getCatNavList = async() => {
     const data = await axios.get("https://bravetime.davdian.com/index.php?c=Index&a=getCatNavList")
     return data;
 }
-export { getCatNavList }
+const getgoodsinfo = async(id) => {
+    const data = await axios.get(`https://5t.dvmama.com/goods/goods_${id}.json?&_=1567665320052`)
+    return data;
+}
+export { getCatNavList, getgoodsinfo }

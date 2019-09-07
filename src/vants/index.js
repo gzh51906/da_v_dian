@@ -9,9 +9,9 @@ import { Tab, Tabs } from 'vant';
 import { Swipe, SwipeItem } from 'vant';
 import { Sidebar, SidebarItem } from 'vant';
 import { Field } from 'vant';
-
+import { Rate } from 'vant';
 import { Button } from 'vant';
-
+import { Stepper } from 'vant';
 
 import { Card } from 'vant';
 import { List } from 'vant';
@@ -42,6 +42,8 @@ Vue
 
 
 export default ()=>{
+  Vue.use(Stepper);
+  Vue.use(Rate);
     Vue.use(Sku);
     Vue.use(Row).use(Col);
 Vue.use(NavBar);
