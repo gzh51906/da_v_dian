@@ -1,0 +1,1286 @@
+{
+    "code": 0,
+    "data_version": "f2f1e9b95a360a0a965e6ff2f24789e0",
+    "suggestDomain": "",
+    "forceDomain": "",
+    "shop_url": "https:\/\/bravetime.davdian.com",
+    "visitor_status": 0,
+    "sess_key": "9f35fde0f54c2e76ee0c800179ff282100000001",
+    "sys_time": 1567681736,
+    "share_seller_name": "\u5927V\u4f53\u9a8c\u5e97",
+    "data": {
+        "feedList": [
+            {
+                "marginTop": "0",
+                "body": {
+                    "tplId": "bd_book_store_cover",
+                    "bgColor": "#ffffff",
+                    "top": {
+                        "totalNum": "30\u4e07",
+                        "dataList": [
+                            {
+                                "nickName": "137****0508"
+                            },
+                            {
+                                "nickName": "\u6c64\u5706\ud83d\ude18\u5c0f\u5c4b"
+                            },
+                            {
+                                "nickName": "159****6956"
+                            },
+                            {
+                                "nickName": "180****4819"
+                            },
+                            {
+                                "nickName": "\u6811\u5317\u5317"
+                            },
+                            {
+                                "nickName": "186****7889"
+                            },
+                            {
+                                "nickName": "135****3147"
+                            },
+                            {
+                                "nickName": "139****4322"
+                            },
+                            {
+                                "nickName": "189****2595"
+                            },
+                            {
+                                "nickName": "150****2532"
+                            }
+                        ]
+                    },
+                    "imageUrl": "https:\/\/9i.dvmama.com\/free\/2018\/01\/02\/1125_711_c3f143171d9a7bdde2b571041a11389c.png?x-oss-process=image\/format,webp",
+                    "status": "1",
+                    "command": {
+                        "content": "\/book_stacks_new.html?newBook&rp=bookstore_index&rl=entry"
+                    }
+                }
+            },
+            {
+                "marginTop": 0,
+                "position": 0,
+                "body": {
+                    "tplId": "bd_slide_0",
+                    "showTime": "5",
+                    "width": "375",
+                    "height": "193",
+                    "dataList": [
+                        {
+                            "position": 0,
+                            "imageUrl": "https:\/\/9i.dvmama.com\/activity\/2019\/04\/20\/1125_579_cbd1d00cc906a30dc74c881ac2c070db.png",
+                            "text": "",
+                            "id": 3,
+                            "command": {
+                                "content": "\/m\/buy_book_new.html",
+                                "log": ""
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "marginTop": 15,
+                "body": {
+                    "tplId": "bd_580icon_5",
+                    "bgColor": "0xffffff",
+                    "dataList": [
+                        {
+                            "position": 0,
+                            "title": "\u4e70\u4e66",
+                            "imageUrl": "https:\/\/9i.dvmama.com\/free\/2019\/04\/22\/11.png",
+                            "command": {
+                                "content": "\/m\/buy_book_new.html",
+                                "log": ""
+                            }
+                        },
+                        {
+                            "position": 1,
+                            "title": "\u542c\u4e66",
+                            "imageUrl": "https:\/\/9i.dvmama.com\/free\/2019\/04\/22\/33.png",
+                            "command": {
+                                "content": "\/articles.html?isShow=31-15-45-46&menuId=31&showName=%E9%98%85%E8%AF%BB%E6%A0%8F%E7%9B%AE&no_search=1",
+                                "log": ""
+                            }
+                        },
+                        {
+                            "position": 2,
+                            "title": "\u8350\u4e66",
+                            "imageUrl": "https:\/\/9i.dvmama.com\/free\/2019\/04\/22\/22.png",
+                            "command": {
+                                "content": "\/admin_topic.html?topicId=29950",
+                                "log": ""
+                            }
+                        },
+                        {
+                            "position": 3,
+                            "title": "\u8bfb\u4e66",
+                            "imageUrl": "https:\/\/9i.dvmama.com\/free\/2019\/04\/22\/44.png",
+                            "command": {
+                                "content": "\/book\/router\/hot_card_activity?rp=bookstore_index&rl=hot_sign_act",
+                                "log": ""
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "marginTop": 20,
+                "position": 0,
+                "body": {
+                    "tplId": "bd_button_1",
+                    "bgColor": "0xFFFFFF",
+                    "dataList": [
+                        {
+                            "position": 0,
+                            "imageUrl": "https:\/\/9i.dvmama.com\/goods\/2019\/08\/31\/1005_120_6c64d1658fe232a8065da6f155fdd65d.jpg",
+                            "text": "",
+                            "id": 66,
+                            "command": {
+                                "content": "\/m\/buy_book_new.html",
+                                "log": ""
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "marginTop": 10,
+                "body": {
+                    "tplId": "bd_book_store_ad",
+                    "isLink": 1,
+                    "dataList": [
+                        {
+                            "position": 0,
+                            "imageUrl": "https:\/\/9i.dvmama.com\/free\/2019\/08\/24\/1125_242_395b5e02871ecf18664e09565cf5e8b9.jpeg",
+                            "text": "",
+                            "id": 95,
+                            "command": {
+                                "content": "\/class_detail.html?pageId=19873&preview=1",
+                                "log": ""
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "marginTop": 10,
+                "position": 0,
+                "body": {
+                    "tplId": "bd_book_store_ad",
+                    "isLink": 0,
+                    "dataList": [
+                        {
+                            "position": 0,
+                            "imageUrl": "https:\/\/9i.dvmama.com\/activity\/2019\/04\/22\/1125_30_cfdd601cc9048363b3f8c11602a969ef.jpg",
+                            "text": "",
+                            "command": {
+                                "content": "#",
+                                "log": ""
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "marginTop": 0,
+                "position": 5,
+                "title": {
+                    "tplId": "tt_book_store_selection_title",
+                    "bgColor": "0xFFFFFF",
+                    "name": "\u542c\u4e66",
+                    "sub_text": "\u7ed9\u5b69\u5b50\u7cbe\u5fc3\u51c6\u5907\u7684\u597d\u6545\u4e8b",
+                    "btn": "\u5168\u90e8\u5185\u5bb9",
+                    "more": 1,
+                    "command": {
+                        "content": "\/articles.html?isShow=31-15-45-46&menuId=31&showName=%E9%98%85%E8%AF%BB%E6%A0%8F%E7%9B%AE&no_search=1",
+                        "log": ""
+                    }
+                }
+            },
+            {
+                "marginTop": 0,
+                "position": 6,
+                "body": {
+                    "tplId": "bd_image_2_1",
+                    "bgColor": "0xFFFFFF",
+                    "dataList": [
+                        {
+                            "position": 0,
+                            "imageUrl": "https:\/\/9i.dvmama.com\/free\/2019\/07\/06\/972_612_418ae823d0f22ccd1c47c6eceb12cd72.png",
+                            "text": "\u300a\u9999\u8349\u5c71\u4f20\u5947\u300b\u70b9\u6211\u542c\u6545\u4e8b",
+                            "id": 81,
+                            "command": {
+                                "content": "\/class_detail.html?pageId=19609&preview=1",
+                                "log": ""
+                            }
+                        },
+                        {
+                            "position": 1,
+                            "imageUrl": "https:\/\/9i.dvmama.com\/free\/2019\/08\/19\/324_204_74cb68d3401d59f23f68e41741574264.png",
+                            "text": "\u54c8\u7238\u8bb2\u6545\u4e8b | \u7b2c259\u671f",
+                            "id": 75,
+                            "command": {
+                                "content": "\/class_detail.html?pageId=19790&preview=1?dp=bobo",
+                                "log": ""
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "marginTop": 10,
+                "position": 7,
+                "body": {
+                    "tplId": "bd_image_2_1",
+                    "bgColor": "0xFFFFFF",
+                    "dataList": [
+                        {
+                            "position": 2,
+                            "imageUrl": "https:\/\/9i.dvmama.com\/article\/2019\/09\/04\/1125_600_38133472d4669d06a6bb5b3ae41cc529.jpg",
+                            "text": "\u665a\u5b89\u4e66\u8bed|\u7b2c270\u671f",
+                            "id": 107,
+                            "command": {
+                                "content": "https:\/\/bravetime.davdian.com\/class_detail.html?pageId=19989&preview=1",
+                                "log": ""
+                            }
+                        },
+                        {
+                            "position": 3,
+                            "imageUrl": "https:\/\/9i.dvmama.com\/free\/2019\/08\/20\/324_204_3d3ee332a5a2dec6aeccf65dfc8bddd6.png",
+                            "text": "\u7761\u524d\u6545\u4e8b | \u7b2c275\u671f",
+                            "id": 86,
+                            "command": {
+                                "content": "\/class_detail.html?pageId=19901&preview=1?dp=bobo",
+                                "log": ""
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "marginTop": 10,
+                "position": 0,
+                "body": {
+                    "tplId": "bd_book_store_ad",
+                    "isLink": 0,
+                    "dataList": [
+                        {
+                            "position": 0,
+                            "imageUrl": "https:\/\/9i.dvmama.com\/activity\/2019\/04\/22\/1125_30_cfdd601cc9048363b3f8c11602a969ef.jpg",
+                            "text": "",
+                            "command": {
+                                "content": "#",
+                                "log": ""
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "marginTop": 0,
+                "position": 8,
+                "title": {
+                    "tplId": "tt_book_store_selection_title",
+                    "bgColor": "0xFFFFFF",
+                    "name": "\u6545\u4e8b\u5988\u5988",
+                    "sub_text": "\u5e26\u4e0a\u5b69\u5b50\uff0c\u6765\u53c2\u52a0\u4e00\u573a\u6545\u4e8b\u4f1a\u5427",
+                    "btn": "",
+                    "more": 0,
+                    "command": {
+                        "content": "",
+                        "log": ""
+                    }
+                }
+            },
+            {
+                "marginTop": 0,
+                "position": 9,
+                "body": {
+                    "tplId": "bd_book_store_ad",
+                    "isLink": 1,
+                    "bgColor": "0xFFFFFF",
+                    "dataList": [
+                        {
+                            "position": 0,
+                            "imageUrl": "https:\/\/9i.dvmama.com\/free\/2019\/08\/30\/1080_309_4af7cd0d72be0eb1a74b6ae9747d12d9.png",
+                            "text": "",
+                            "id": 99,
+                            "command": {
+                                "content": "\/story\/index.html",
+                                "log": ""
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "marginTop": 10,
+                "position": 0,
+                "body": {
+                    "tplId": "bd_book_store_ad",
+                    "isLink": 0,
+                    "dataList": [
+                        {
+                            "position": 0,
+                            "imageUrl": "https:\/\/9i.dvmama.com\/activity\/2019\/04\/22\/1125_30_cfdd601cc9048363b3f8c11602a969ef.jpg",
+                            "text": "",
+                            "command": {
+                                "content": "#",
+                                "log": ""
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "marginTop": 0,
+                "position": 2,
+                "title": {
+                    "tplId": "tt_book_store_selection_title",
+                    "bgColor": "0xFFFFFF",
+                    "name": "\u8350\u4e66",
+                    "sub_text": "\u5927\u5496\u4e66\u5355\uff0c\u7ed9\u4f60\u63a8\u8350\u6700\u597d\u7684\u7ae5\u4e66",
+                    "btn": "\u5168\u90e8\u4e66\u5355",
+                    "more": 1,
+                    "command": {
+                        "content": "\/book\/router\/book_list",
+                        "log": ""
+                    }
+                }
+            },
+            {
+                "marginTop": 0,
+                "position": 3,
+                "body": {
+                    "tplId": "bd_slide_0",
+                    "width": "335",
+                    "showTime": "5",
+                    "dataList": [
+                        {
+                            "position": 0,
+                            "imageUrl": "https:\/\/9i.dvmama.com\/activity\/2019\/04\/22\/1125_700_c5d8d2b44397cd9426d85b4c24f1f116.jpg",
+                            "text": "",
+                            "id": 11,
+                            "command": {
+                                "content": "\/admin_topic.html?topicId=29950",
+                                "log": ""
+                            }
+                        },
+                        {
+                            "position": 1,
+                            "imageUrl": "https:\/\/9i.dvmama.com\/activity\/2019\/04\/22\/1125_700_95d6c681be721d75e44fab6a96fdf9cb.jpg",
+                            "text": "",
+                            "id": 12,
+                            "command": {
+                                "content": "\/admin_topic.html?topicId=29950",
+                                "log": ""
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "marginTop": 12,
+                "body": {
+                    "tplId": "bd_book_store_ad",
+                    "isLink": 1,
+                    "dataList": [
+                        {
+                            "position": 0,
+                            "imageUrl": "https:\/\/9i.dvmama.com\/free\/2019\/04\/23\/1125_348_b09e8d7d1752c820038d803b74462118.png",
+                            "text": "",
+                            "command": {
+                                "content": "\/admin_topic.html?topicId=29974",
+                                "log": ""
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "marginTop": 0,
+                "body": {
+                    "tplId": "bd_book_store_ad",
+                    "isLink": 1,
+                    "dataList": [
+                        {
+                            "position": 0,
+                            "imageUrl": "https:\/\/9i.dvmama.com\/free\/2019\/04\/23\/1125_321_b1b5a17e6f334d277f9df2588a0e4e41.png",
+                            "text": "",
+                            "command": {
+                                "content": "\/admin_topic.html?topicId=29976",
+                                "log": ""
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "marginTop": 0,
+                "position": 4,
+                "body": {
+                    "tplId": "bd_book_sheet_0",
+                    "dataList": [
+                        {
+                            "id": 61,
+                            "name": "\u3010\u5927V\u5988\u5988\u539f\u521b\u4e66\u5355\u3011\u5907\u5b55\u80b2\u513f\u7c7b\u7ed8\u672c\u63a8\u8350",
+                            "collect_num": 21,
+                            "picture_url": "https:\/\/9i.dvmama.com\/free\/2019\/08\/24\/628_628_c8d1e9cfa6758fb2b77b7f448db10264.png",
+                            "u_time": "2019-09-05 14:28:28",
+                            "author_name": "\u738b\u6f02\u4eae",
+                            "author_info": "\u5927V\u5988\u5988\u539f\u521b\u4e66\u5355",
+                            "tags": [
+                                {
+                                    "id": 0,
+                                    "parent_id": 1,
+                                    "name": "0-12\u5c81",
+                                    "level": 2,
+                                    "sort_val": 0
+                                },
+                                {
+                                    "id": 11,
+                                    "parent_id": 2,
+                                    "name": "\u5fc5\u8bfb",
+                                    "level": 2,
+                                    "sort_val": 60
+                                },
+                                {
+                                    "id": 14,
+                                    "parent_id": 2,
+                                    "name": "\u539f\u521b",
+                                    "level": 2,
+                                    "sort_val": 47
+                                }
+                            ],
+                            "command": {
+                                "content": "\/admin_topic.html?topicId=32191",
+                                "log": ""
+                            }
+                        },
+                        {
+                            "id": 58,
+                            "name": "\u3010\u5927V\u5988\u5988\u539f\u521b\u4e66\u5355\u3011\u4eb2\u5b50\u6559\u80b2\u7c7b\u7ed8\u672c\u63a8\u8350",
+                            "collect_num": 30,
+                            "picture_url": "https:\/\/9i.dvmama.com\/free\/2019\/08\/24\/1158_1158_5a397f8f607a1b4840f13243c8ecd8bd.png",
+                            "u_time": "2019-09-05 13:00:33",
+                            "author_name": "\u5b59\u5ca9",
+                            "author_info": "\u5927V\u5988\u5988\u539f\u521b\u4e66\u5355",
+                            "tags": [
+                                {
+                                    "id": 0,
+                                    "parent_id": 1,
+                                    "name": "0-12\u5c81",
+                                    "level": 2,
+                                    "sort_val": 0
+                                },
+                                {
+                                    "id": 14,
+                                    "parent_id": 2,
+                                    "name": "\u539f\u521b",
+                                    "level": 2,
+                                    "sort_val": 47
+                                },
+                                {
+                                    "id": 20,
+                                    "parent_id": 2,
+                                    "name": "\u8ba4\u77e5\u53d1\u5c55",
+                                    "level": 2,
+                                    "sort_val": 0
+                                }
+                            ],
+                            "command": {
+                                "content": "\/admin_topic.html?topicId=32189",
+                                "log": ""
+                            }
+                        },
+                        {
+                            "id": 59,
+                            "name": "\u3010\u5927V\u5988\u5988\u539f\u521b\u4e66\u5355\u3011\u81ea\u7136\u767e\u79d1\u7c7b\u7ed8\u672c\u63a8\u8350",
+                            "collect_num": 24,
+                            "picture_url": "https:\/\/9i.dvmama.com\/free\/2019\/08\/24\/1218_1218_67afac415b383d436dde51dfd2c29629.png",
+                            "u_time": "2019-09-05 14:32:08",
+                            "author_name": "\u738b\u4e9a\u840d",
+                            "author_info": "\u5927V\u5988\u5988\u539f\u521b\u4e66\u5355",
+                            "tags": [
+                                {
+                                    "id": 0,
+                                    "parent_id": 1,
+                                    "name": "0-12\u5c81",
+                                    "level": 2,
+                                    "sort_val": 0
+                                },
+                                {
+                                    "id": 14,
+                                    "parent_id": 2,
+                                    "name": "\u539f\u521b",
+                                    "level": 2,
+                                    "sort_val": 47
+                                },
+                                {
+                                    "id": 20,
+                                    "parent_id": 2,
+                                    "name": "\u8ba4\u77e5\u53d1\u5c55",
+                                    "level": 2,
+                                    "sort_val": 0
+                                },
+                                {
+                                    "id": 32,
+                                    "parent_id": 2,
+                                    "name": "\u5927\u81ea\u7136",
+                                    "level": 2,
+                                    "sort_val": 0
+                                }
+                            ],
+                            "command": {
+                                "content": "\/admin_topic.html?topicId=32192",
+                                "log": ""
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "marginTop": 20,
+                "position": 0,
+                "body": {
+                    "tplId": "bd_book_store_ad",
+                    "isLink": 0,
+                    "dataList": [
+                        {
+                            "position": 0,
+                            "imageUrl": "https:\/\/9i.dvmama.com\/activity\/2019\/04\/22\/1125_30_cfdd601cc9048363b3f8c11602a969ef.jpg",
+                            "text": "",
+                            "command": {
+                                "content": "#",
+                                "log": ""
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "marginTop": "0",
+                "title": {
+                    "tplId": "tt_book_store_sign_title",
+                    "bgColor": "#ffffff",
+                    "name": "\u8bfb\u4e66",
+                    "sub_text": "\u575a\u6301\u8bfb\u4e66\u6253\u5361\uff0c\u8ba9\u5b69\u5b50\u7231\u4e0a\u9605\u8bfb",
+                    "rightName1": "\u70ed\u95e8"
+                }
+            }
+        ],
+        "hotFeedList": [
+            {
+                "marginTop": "0.5",
+                "body": {
+                    "tplId": "bd_book_store_sign_activity_list",
+                    "bgColor": "#fcfcfc",
+                    "leftTitle": "\u70ed\u95e8\u6253\u5361\u6d3b\u52a8",
+                    "moreInfo": {
+                        "command": {
+                            "content": "https:\/\/bravetime.davdian.com\/book\/router\/hot_card_activity?rp=bookstore_index&rl=hot_sign_act"
+                        }
+                    },
+                    "dataList": [
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/free\/2019\/06\/27\/561_282_c3f8d2428d15bcabaac20fd79815d06e.jpg?x-oss-process=image\/format,webp",
+                            "joinStatus": "0",
+                            "joinCount": "163",
+                            "command": {
+                                "content": "\/book\/router\/punching_activity?rp=bookstore_index&rl=hot_sign_act&actId=243"
+                            }
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/free\/2019\/07\/01\/561_282_e59d3bcdf5a036c4d21660e7b97004e5.jpg?x-oss-process=image\/format,webp",
+                            "joinStatus": "0",
+                            "joinCount": "251",
+                            "command": {
+                                "content": "\/book\/router\/punching_activity?rp=bookstore_index&rl=hot_sign_act&actId=245"
+                            }
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/free\/2019\/08\/02\/1005_504_49f5f00bc088358f723c1689eacce2a7.jpg?x-oss-process=image\/format,webp",
+                            "joinStatus": "0",
+                            "joinCount": "265",
+                            "command": {
+                                "content": "\/book\/router\/punching_activity?rp=bookstore_index&rl=hot_sign_act&actId=246"
+                            }
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/free\/2019\/06\/28\/561_282_f14f34296efd885eb95d36b4fdfc91eb.jpg?x-oss-process=image\/format,webp",
+                            "joinStatus": "0",
+                            "joinCount": "466",
+                            "command": {
+                                "content": "\/book\/router\/punching_activity?rp=bookstore_index&rl=hot_sign_act&actId=244"
+                            }
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/free\/2019\/07\/01\/561_282_2d4fd03baf603fda3b3d80d35f1a5eac.jpg?x-oss-process=image\/format,webp",
+                            "joinStatus": "0",
+                            "joinCount": "83",
+                            "command": {
+                                "content": "\/book\/router\/punching_activity?rp=bookstore_index&rl=hot_sign_act&actId=242"
+                            }
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/free\/2019\/08\/01\/561_282_9d8366e5500b9142dcaa98bd4a9ccf7c.png?x-oss-process=image\/format,webp",
+                            "joinStatus": "0",
+                            "joinCount": "793",
+                            "command": {
+                                "content": "\/book\/router\/punching_activity?rp=bookstore_index&rl=hot_sign_act&actId=240"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "marginTop": "0",
+                "body": {
+                    "tplId": "bd_book_store_sign_list",
+                    "bgColor": "#fcfcfc",
+                    "haveLine": 0,
+                    "id": "405585",
+                    "avatar": "https:\/\/9i.dvmama.com\/news\/2018\/12\/23\/267_267_5ebddca15e922bc7049431ca1d7f62d8.jpg",
+                    "nickName": "\u4e94\u4e00\u5988\u5988",
+                    "time": "2019-09-04",
+                    "upTitle": "",
+                    "content": "6\u73ed60\u53f7\u4e1c\u4e1c \u7b2c\u4e5d\u81f3\u7b2c\u5341\u4e94\u8282\u8bfe<br\/>\u8fd8\u539f\u95ee\u9898<br\/>\u500d\u53d8\u95ee\u9898<br\/>\u89e3\u6811\u5f62\u56fe<br\/>\u89e3\u6d41\u7a0b\u56fe<br\/>\u6570\u7684\u62c6\u5206<br\/>\u5e73\u5747\u6570\u95ee\u9898<br\/>\u76c8\u4e8f\u95ee\u9898",
+                    "dayCount": 9,
+                    "activityInfo": {
+                        "name": "\u5c0f\u5b66\u6570\u5b66\u4e09\u671f\u4f5c\u4e1a\u6253\u5361",
+                        "actImg": "https:\/\/9i.dvmama.com\/free\/2019\/07\/01\/561_282_2d4fd03baf603fda3b3d80d35f1a5eac.jpg",
+                        "command": {
+                            "content": "\/book\/router\/punching_activity?rp=bookstore_index&rl=hot_sign_content&actId=129"
+                        }
+                    },
+                    "imageUrlList": [
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/04\/src__35241e3874c726107876d811d26f7e2b.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/04\/src__3a5ea13b0443a48155b95e1fd1209049.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/04\/src__426ceb9ba992c56d4e25b4b6db5e2f98.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/04\/src__361a8e41a09723cccb0bd662e01f75ae.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/04\/src__7be4a728042b7cec7b97a86bdded9aad.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/04\/src__c3027f5da8012be39864ca34d0ad9936.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/04\/src__a53a336358ebd2dc547d17c406d911d0.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        }
+                    ],
+                    "bigImageUrlList": [
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/04\/src__35241e3874c726107876d811d26f7e2b.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_5LqU5LiA5aaI5aaI,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/04\/src__3a5ea13b0443a48155b95e1fd1209049.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_5LqU5LiA5aaI5aaI,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/04\/src__426ceb9ba992c56d4e25b4b6db5e2f98.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_5LqU5LiA5aaI5aaI,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/04\/src__361a8e41a09723cccb0bd662e01f75ae.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_5LqU5LiA5aaI5aaI,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/04\/src__7be4a728042b7cec7b97a86bdded9aad.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_5LqU5LiA5aaI5aaI,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/04\/src__c3027f5da8012be39864ca34d0ad9936.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_5LqU5LiA5aaI5aaI,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/04\/src__a53a336358ebd2dc547d17c406d911d0.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_5LqU5LiA5aaI5aaI,t_90,g_se,x_20,y_25"
+                    ],
+                    "thumbsUpNum": "1",
+                    "commentNum": "7",
+                    "shareNum": "6",
+                    "praised": "0",
+                    "status": "1",
+                    "command": {
+                        "content": "\/book\/router\/card_content_detail?rp=bookstore_index&rl=hot_sign_content&contentId=405585"
+                    },
+                    "videoInfo": [],
+                    "midiInfo": []
+                }
+            },
+            {
+                "marginTop": "0",
+                "body": {
+                    "tplId": "bd_book_store_sign_list",
+                    "bgColor": "#fcfcfc",
+                    "haveLine": 1,
+                    "id": "405113",
+                    "avatar": "https:\/\/9i.dvmama.com\/news\/2019\/01\/01\/267_267_ef26bebd9d01728085896607d2ac5f74.jpg",
+                    "nickName": "\u6b23\u59a4\u5b9d\u8d1d",
+                    "time": "2019-09-03",
+                    "upTitle": "",
+                    "content": "6\u73ed33\u53f7<br\/>\u4f5c\u4e1a\u7b2c\u5341\uff0c\u5341\u4e00\uff0c\u5341\u4e8c\uff0c\u5341\u4e09\uff0c\u5341\u56db\uff0c\u5341\u4e94\u6b21",
+                    "dayCount": 1,
+                    "activityInfo": {
+                        "name": "\u5c0f\u5b66\u6570\u5b66\u4e09\u671f\u4f5c\u4e1a\u6253\u5361",
+                        "actImg": "https:\/\/9i.dvmama.com\/free\/2019\/07\/01\/561_282_2d4fd03baf603fda3b3d80d35f1a5eac.jpg",
+                        "command": {
+                            "content": "\/book\/router\/punching_activity?rp=bookstore_index&rl=hot_sign_content&actId=129"
+                        }
+                    },
+                    "imageUrlList": [
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__56359d6dffe19ce4924ef935de20449f.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__910090f18bac888681d1da49d973c75b.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__a422c99a9a819c514fad56156a066685.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__714fabe453621be5737a81e4b82741ee.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__bf4757dfe297ab6656d4b26bccd69eab.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__470a47fb6c599a489f409f0a4fad8092.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        }
+                    ],
+                    "bigImageUrlList": [
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__56359d6dffe19ce4924ef935de20449f.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_5qyj5aak5a6d6LSd,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__910090f18bac888681d1da49d973c75b.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_5qyj5aak5a6d6LSd,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__a422c99a9a819c514fad56156a066685.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_5qyj5aak5a6d6LSd,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__714fabe453621be5737a81e4b82741ee.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_5qyj5aak5a6d6LSd,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__bf4757dfe297ab6656d4b26bccd69eab.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_5qyj5aak5a6d6LSd,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__470a47fb6c599a489f409f0a4fad8092.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_5qyj5aak5a6d6LSd,t_90,g_se,x_20,y_25"
+                    ],
+                    "thumbsUpNum": "1",
+                    "commentNum": "6",
+                    "shareNum": "0",
+                    "praised": "0",
+                    "status": "1",
+                    "command": {
+                        "content": "\/book\/router\/card_content_detail?rp=bookstore_index&rl=hot_sign_content&contentId=405113"
+                    },
+                    "videoInfo": [],
+                    "midiInfo": []
+                }
+            },
+            {
+                "marginTop": "0",
+                "body": {
+                    "tplId": "bd_book_store_sign_list",
+                    "bgColor": "#fcfcfc",
+                    "haveLine": 1,
+                    "id": "405106",
+                    "avatar": "https:\/\/9i.dvmama.com\/news\/2019\/01\/01\/267_267_ef26bebd9d01728085896607d2ac5f74.jpg",
+                    "nickName": "\u6b23\u59a4\u5b9d\u8d1d",
+                    "time": "2019-09-03",
+                    "upTitle": "",
+                    "content": "6\u73ed33\u53f7<br\/>\u4f5c\u4e1a1\u4e009\u6b21",
+                    "dayCount": 1,
+                    "activityInfo": {
+                        "name": "\u5c0f\u5b66\u6570\u5b66\u4e09\u671f\u4f5c\u4e1a\u6253\u5361",
+                        "actImg": "https:\/\/9i.dvmama.com\/free\/2019\/07\/01\/561_282_2d4fd03baf603fda3b3d80d35f1a5eac.jpg",
+                        "command": {
+                            "content": "\/book\/router\/punching_activity?rp=bookstore_index&rl=hot_sign_content&actId=129"
+                        }
+                    },
+                    "imageUrlList": [
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__695b39f489a885550fe576dd7f901385.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__5f7ee8236964be95cf2041528b6c1866.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__863f2b2fa023d48bd7aa26fe3270f575.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__6f0d9634d78dd75f1ebedf61dbcd6103.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__16a7f8270d27274d0cd8639f8dc54a59.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__0c739273b55d81e79ce0c23eaae8190d.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__e8eabb1c12fdb03137b6c9e2b14b56f0.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__de68e26eebd098fd961710647abad4a6.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__f74845db24bd0c612e1fb52b7ad4cfa7.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        }
+                    ],
+                    "bigImageUrlList": [
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__695b39f489a885550fe576dd7f901385.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_5qyj5aak5a6d6LSd,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__5f7ee8236964be95cf2041528b6c1866.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_5qyj5aak5a6d6LSd,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__863f2b2fa023d48bd7aa26fe3270f575.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_5qyj5aak5a6d6LSd,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__6f0d9634d78dd75f1ebedf61dbcd6103.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_5qyj5aak5a6d6LSd,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__16a7f8270d27274d0cd8639f8dc54a59.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_5qyj5aak5a6d6LSd,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__0c739273b55d81e79ce0c23eaae8190d.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_5qyj5aak5a6d6LSd,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__e8eabb1c12fdb03137b6c9e2b14b56f0.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_5qyj5aak5a6d6LSd,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__de68e26eebd098fd961710647abad4a6.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_5qyj5aak5a6d6LSd,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__f74845db24bd0c612e1fb52b7ad4cfa7.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_5qyj5aak5a6d6LSd,t_90,g_se,x_20,y_25"
+                    ],
+                    "thumbsUpNum": "2",
+                    "commentNum": "9",
+                    "shareNum": "0",
+                    "praised": "0",
+                    "status": "1",
+                    "command": {
+                        "content": "\/book\/router\/card_content_detail?rp=bookstore_index&rl=hot_sign_content&contentId=405106"
+                    },
+                    "videoInfo": [],
+                    "midiInfo": []
+                }
+            },
+            {
+                "marginTop": "0",
+                "body": {
+                    "tplId": "bd_book_store_sign_list",
+                    "bgColor": "#fcfcfc",
+                    "haveLine": 1,
+                    "id": "404981",
+                    "avatar": "https:\/\/9i.dvmama.com\/shop_logo\/2017\/12\/12\/80_80_886ce6eb82b6eb66012e3f15ee4da8b8.jpg",
+                    "nickName": "\u8bfa\u5b9d",
+                    "time": "2019-09-03",
+                    "upTitle": "",
+                    "content": "6\u73ed80\u53f7\u5c01\u4f0a\u8bfa\u6253\u5361\u5566\ud83d\ude01<br\/>\u7ec8\u4e8e\u8865\u9f50\u5566\uff01",
+                    "dayCount": 1,
+                    "activityInfo": {
+                        "name": "\u5c0f\u5b66\u6570\u5b66\u4e09\u671f\u4f5c\u4e1a\u6253\u5361",
+                        "actImg": "https:\/\/9i.dvmama.com\/free\/2019\/07\/01\/561_282_2d4fd03baf603fda3b3d80d35f1a5eac.jpg",
+                        "command": {
+                            "content": "\/book\/router\/punching_activity?rp=bookstore_index&rl=hot_sign_content&actId=129"
+                        }
+                    },
+                    "imageUrlList": [
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__5aae4b83e60f8d74ed65632923e6fa08.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__4532f138ab9cfeb2871d54f1f07fbc00.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__fe65abd4517f035155b979c3d1b0aa03.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__309b29675e9be127c14bb8b09e842596.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__a2690e5bb9990253b1779f2ba1951492.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__a44b2464a21d507c2d71a210bdfbbb4c.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        }
+                    ],
+                    "bigImageUrlList": [
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__5aae4b83e60f8d74ed65632923e6fa08.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_6K-65a6d,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__4532f138ab9cfeb2871d54f1f07fbc00.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_6K-65a6d,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__fe65abd4517f035155b979c3d1b0aa03.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_6K-65a6d,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__309b29675e9be127c14bb8b09e842596.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_6K-65a6d,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__a2690e5bb9990253b1779f2ba1951492.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_6K-65a6d,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__a44b2464a21d507c2d71a210bdfbbb4c.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_6K-65a6d,t_90,g_se,x_20,y_25"
+                    ],
+                    "thumbsUpNum": "1",
+                    "commentNum": "7",
+                    "shareNum": "0",
+                    "praised": "0",
+                    "status": "1",
+                    "command": {
+                        "content": "\/book\/router\/card_content_detail?rp=bookstore_index&rl=hot_sign_content&contentId=404981"
+                    },
+                    "videoInfo": [],
+                    "midiInfo": []
+                }
+            },
+            {
+                "marginTop": "0",
+                "body": {
+                    "tplId": "bd_book_store_sign_list",
+                    "bgColor": "#fcfcfc",
+                    "haveLine": 1,
+                    "id": "404943",
+                    "avatar": "https:\/\/9i.dvmama.com\/free\/2017\/12\/27\/120_120_51293e9dada46f6b2fc03773b434e801.png",
+                    "nickName": "155****8899",
+                    "time": "2019-09-03",
+                    "upTitle": "",
+                    "content": "6\u73ed72\u53f78\uff5e15\u8282\u4f5c\u4e1a",
+                    "dayCount": 3,
+                    "activityInfo": {
+                        "name": "\u5c0f\u5b66\u6570\u5b66\u4e09\u671f\u4f5c\u4e1a\u6253\u5361",
+                        "actImg": "https:\/\/9i.dvmama.com\/free\/2019\/07\/01\/561_282_2d4fd03baf603fda3b3d80d35f1a5eac.jpg",
+                        "command": {
+                            "content": "\/book\/router\/punching_activity?rp=bookstore_index&rl=hot_sign_content&actId=129"
+                        }
+                    },
+                    "imageUrlList": [
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__6f7fefd596c228aef2c7bd97d4c67f6f.jpeg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__9ed0e5007ea123233fafb38bf934d227.jpeg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__faaaf5f6d4c1c07007fdc13d111348ec.jpeg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__a32498519acefe6ee8ee549c74bfb1b4.jpeg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__cff14ecc5e298df4636f61a35c6264aa.jpeg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__7c9dc2183b7c58081a110f89f4dba67e.jpeg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__bb85787a435e9738749d95df2bbb87e3.jpeg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__364862a0329044b478ad7cecbbc9f49f.jpeg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        }
+                    ],
+                    "bigImageUrlList": [
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__6f7fefd596c228aef2c7bd97d4c67f6f.jpeg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_MTU1KioqKjg4OTk=,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__9ed0e5007ea123233fafb38bf934d227.jpeg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_MTU1KioqKjg4OTk=,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__faaaf5f6d4c1c07007fdc13d111348ec.jpeg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_MTU1KioqKjg4OTk=,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__a32498519acefe6ee8ee549c74bfb1b4.jpeg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_MTU1KioqKjg4OTk=,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__cff14ecc5e298df4636f61a35c6264aa.jpeg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_MTU1KioqKjg4OTk=,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__7c9dc2183b7c58081a110f89f4dba67e.jpeg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_MTU1KioqKjg4OTk=,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__bb85787a435e9738749d95df2bbb87e3.jpeg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_MTU1KioqKjg4OTk=,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__364862a0329044b478ad7cecbbc9f49f.jpeg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_MTU1KioqKjg4OTk=,t_90,g_se,x_20,y_25"
+                    ],
+                    "thumbsUpNum": "1",
+                    "commentNum": "9",
+                    "shareNum": "6",
+                    "praised": "0",
+                    "status": "1",
+                    "command": {
+                        "content": "\/book\/router\/card_content_detail?rp=bookstore_index&rl=hot_sign_content&contentId=404943"
+                    },
+                    "videoInfo": [],
+                    "midiInfo": []
+                }
+            },
+            {
+                "marginTop": "0",
+                "body": {
+                    "tplId": "bd_book_store_sign_list",
+                    "bgColor": "#fcfcfc",
+                    "haveLine": 1,
+                    "id": "404849",
+                    "avatar": "https:\/\/9i.dvmama.com\/shop_logo\/2017\/12\/12\/80_80_886ce6eb82b6eb66012e3f15ee4da8b8.jpg",
+                    "nickName": "\u8bfa\u5b9d",
+                    "time": "2019-09-03",
+                    "upTitle": "",
+                    "content": "6\u73ed80\u5c01\u4f0a\u8bfa\u6253\u5361\u5566<br\/>\u6691\u5047\u6ca1\u6709\ud83d\ude2d\u7763\u4fc3\u597d",
+                    "dayCount": 1,
+                    "activityInfo": {
+                        "name": "\u5c0f\u5b66\u6570\u5b66\u4e09\u671f\u4f5c\u4e1a\u6253\u5361",
+                        "actImg": "https:\/\/9i.dvmama.com\/free\/2019\/07\/01\/561_282_2d4fd03baf603fda3b3d80d35f1a5eac.jpg",
+                        "command": {
+                            "content": "\/book\/router\/punching_activity?rp=bookstore_index&rl=hot_sign_content&actId=129"
+                        }
+                    },
+                    "imageUrlList": [
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__e7e57fa616d6e1ff084dd3a2a423d46e.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__6744004e6bdc98d6e861f78c676e5128.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__93f0576a703c50d068fe7d6a9d7ad4eb.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__60503e493f5fb1883f533cc89164b546.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__3ef0ae0f8c592ebcbf76bd22769dfd05.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__9f1a245688f2a23915ca125ae3715dbc.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__89e9079fc099e9a877de2186599df23c.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__a4237bc86982fd7cfd7d0126c0ab92e9.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__1d9c8595c2f5ab885590c56df532cb6d.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        }
+                    ],
+                    "bigImageUrlList": [
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__e7e57fa616d6e1ff084dd3a2a423d46e.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_6K-65a6d,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__6744004e6bdc98d6e861f78c676e5128.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_6K-65a6d,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__93f0576a703c50d068fe7d6a9d7ad4eb.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_6K-65a6d,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__60503e493f5fb1883f533cc89164b546.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_6K-65a6d,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__3ef0ae0f8c592ebcbf76bd22769dfd05.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_6K-65a6d,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__9f1a245688f2a23915ca125ae3715dbc.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_6K-65a6d,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__89e9079fc099e9a877de2186599df23c.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_6K-65a6d,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__a4237bc86982fd7cfd7d0126c0ab92e9.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_6K-65a6d,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__1d9c8595c2f5ab885590c56df532cb6d.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_6K-65a6d,t_90,g_se,x_20,y_25"
+                    ],
+                    "thumbsUpNum": "1",
+                    "commentNum": "10",
+                    "shareNum": "0",
+                    "praised": "0",
+                    "status": "1",
+                    "command": {
+                        "content": "\/book\/router\/card_content_detail?rp=bookstore_index&rl=hot_sign_content&contentId=404849"
+                    },
+                    "videoInfo": [],
+                    "midiInfo": []
+                }
+            },
+            {
+                "marginTop": "0",
+                "body": {
+                    "tplId": "bd_book_store_sign_list",
+                    "bgColor": "#fcfcfc",
+                    "haveLine": 1,
+                    "id": "404776",
+                    "avatar": "https:\/\/9i.dvmama.com\/free\/2017\/12\/27\/120_120_51293e9dada46f6b2fc03773b434e801.png",
+                    "nickName": "152****3483",
+                    "time": "2019-09-03",
+                    "upTitle": "",
+                    "content": "6\u73ed69\u53f7\u6253\u5361",
+                    "dayCount": 11,
+                    "activityInfo": {
+                        "name": "\u5c0f\u5b66\u6570\u5b66\u4e09\u671f\u4f5c\u4e1a\u6253\u5361",
+                        "actImg": "https:\/\/9i.dvmama.com\/free\/2019\/07\/01\/561_282_2d4fd03baf603fda3b3d80d35f1a5eac.jpg",
+                        "command": {
+                            "content": "\/book\/router\/punching_activity?rp=bookstore_index&rl=hot_sign_content&actId=129"
+                        }
+                    },
+                    "imageUrlList": [
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__5cbf9040e490756c8e6eabbfa6803102.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__c9bd121fd83156725713803765a08b79.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__4d70fa5ebe21a4721f3183c1885cdf49.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__6646d71d25e3ff51c37df6084d9fbd43.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__c71a2252fbdb63c98c1cdcaa88bb8ca6.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__39ccaaf87b07505289292c39facb474a.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        }
+                    ],
+                    "bigImageUrlList": [
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__5cbf9040e490756c8e6eabbfa6803102.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_MTUyKioqKjM0ODM=,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__c9bd121fd83156725713803765a08b79.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_MTUyKioqKjM0ODM=,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__4d70fa5ebe21a4721f3183c1885cdf49.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_MTUyKioqKjM0ODM=,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__6646d71d25e3ff51c37df6084d9fbd43.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_MTUyKioqKjM0ODM=,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__c71a2252fbdb63c98c1cdcaa88bb8ca6.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_MTUyKioqKjM0ODM=,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__39ccaaf87b07505289292c39facb474a.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_MTUyKioqKjM0ODM=,t_90,g_se,x_20,y_25"
+                    ],
+                    "thumbsUpNum": "1",
+                    "commentNum": "6",
+                    "shareNum": "0",
+                    "praised": "0",
+                    "status": "1",
+                    "command": {
+                        "content": "\/book\/router\/card_content_detail?rp=bookstore_index&rl=hot_sign_content&contentId=404776"
+                    },
+                    "videoInfo": [],
+                    "midiInfo": []
+                }
+            },
+            {
+                "marginTop": "0",
+                "body": {
+                    "tplId": "bd_book_store_sign_list",
+                    "bgColor": "#fcfcfc",
+                    "haveLine": 1,
+                    "id": "404664",
+                    "avatar": "https:\/\/9i.dvmama.com\/user\/2016\/07\/23\/80_80_64eeecfbf1298974ccd5218a5eb2fcdc.png",
+                    "nickName": "\u5fc3\u5fc3\u5988\u5988",
+                    "time": "2019-09-03",
+                    "upTitle": "",
+                    "content": "\u3010\u5927V\u5e97\u4eb2\u5b50\u9605\u8bfb\u4e4b\u8def\uff0cD281\u3011\u5165\u4e86\u4e00\u5957\u65b0\u4e66\uff0c\u770b\u4ecb\u7ecd\u9002\u54085\u5c81\u4ee5\u4e0a\u7684\u5b69\u5b50\uff0c\u672c\u6765\u60f3\u81ea\u5df1\u770b\uff0c\u7ed3\u679c\u5fc3\u5fc3\u53d1\u73b0\u4e86\uff0c\u6ca1\u60f3\u5230\u5979\u4e5f\u770b\u7684\u6d25\u6d25\u6709\u5473[\u6342\u8138]\u7269\u7406\u5b66\u4e0e\u6570\u5b66\u662f\u81ea\u7136\u79d1\u5b66\u7684\u4e24\u5927\u652f\u67f1\uff0c\u5728\u4f17\u591a\u5b66\u79d1\u4e4b\u4e2d\u6709\u7740\u7279\u6b8a\u800c\u91cd\u8981\u7684\u5730\u4f4d\uff0c\u6211\u4e0a\u5b66\u7684\u65f6\u5019\u5c31\u4e0d\u592a\u559c\u6b22\u7269\u7406\uff0c\u56e0\u4e3a\u4ece\u5c0f\u6ca1\u6709\u63a5\u89e6\uff0c\u800c\u4e14\u8001\u5e08\u8bb2\u7684\u592a\u67af\u71e5\u4e86[\u76b1\u7709]\u73b0\u5728\u8fd9\u4e9b\u4e66\u771f\u662f\u51fa\u7684\u8d8a\u6765\u8d8a\u597d\u4e86\uff0c\u7528\u8fde\u73af\u6f2b\u753b\u7684\u5f62\u5f0f\u8ba9\u5c0f\u670b\u53cb\u4eec\u8f7b\u677e\u8de8\u5165\u79d1\u5b66\u8ba4\u77e5\u7684\u5927\u95e8\uff0c\u6fc0\u53d1\u5b69\u5b50\u7684\u5174\u8da3\uff01",
+                    "dayCount": 1,
+                    "activityInfo": {
+                        "name": "\u5927V\u56fe\u4e66\u5fc3\u9009\u5708",
+                        "actImg": "https:\/\/9i.dvmama.com\/article\/2019\/08\/30\/1005_504_e1db73b4c5cff67cffe1a986f908e057.jpg",
+                        "command": {
+                            "content": "\/book\/router\/punching_activity?rp=bookstore_index&rl=hot_sign_content&actId=272"
+                        }
+                    },
+                    "imageUrlList": [
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__1ca8c68107321d5b23103cbb29a7feae.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__b5ce49ff22fda1490b92e7fe705e4c7f.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__be3b2d31e1fb106c90606c27c2591be0.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__983d22c48e0033b0a2c99b913361afae.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        }
+                    ],
+                    "bigImageUrlList": [
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__1ca8c68107321d5b23103cbb29a7feae.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_5b-D5b-D5aaI5aaI,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__b5ce49ff22fda1490b92e7fe705e4c7f.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_5b-D5b-D5aaI5aaI,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__be3b2d31e1fb106c90606c27c2591be0.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_5b-D5b-D5aaI5aaI,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__983d22c48e0033b0a2c99b913361afae.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_5b-D5b-D5aaI5aaI,t_90,g_se,x_20,y_25"
+                    ],
+                    "thumbsUpNum": "12",
+                    "commentNum": "0",
+                    "shareNum": "3",
+                    "praised": "0",
+                    "status": "1",
+                    "command": {
+                        "content": "\/book\/router\/card_content_detail?rp=bookstore_index&rl=hot_sign_content&contentId=404664"
+                    },
+                    "videoInfo": [],
+                    "midiInfo": []
+                }
+            },
+            {
+                "marginTop": "0",
+                "body": {
+                    "tplId": "bd_book_store_sign_list",
+                    "bgColor": "#fcfcfc",
+                    "haveLine": 1,
+                    "id": "404572",
+                    "avatar": "https:\/\/9i.dvmama.com\/user\/2017\/06\/30\/80_80_745fc64eebf3ff9fa1fc8fa75e6e5c9e.png",
+                    "nickName": "132****5096",
+                    "time": "2019-09-03",
+                    "upTitle": "",
+                    "content": "2-10\u8bfe\u4f5c\u4e1a",
+                    "dayCount": 1,
+                    "activityInfo": {
+                        "name": "\u5c0f\u5b66\u6570\u5b66\u4e09\u671f\u4f5c\u4e1a\u6253\u5361",
+                        "actImg": "https:\/\/9i.dvmama.com\/free\/2019\/07\/01\/561_282_2d4fd03baf603fda3b3d80d35f1a5eac.jpg",
+                        "command": {
+                            "content": "\/book\/router\/punching_activity?rp=bookstore_index&rl=hot_sign_content&actId=129"
+                        }
+                    },
+                    "imageUrlList": [
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__de557e0ed3e2d2c04428f56b51a0ab39.jpeg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__1ba76f16a0c4048111c5c1b047805074.jpeg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__75d63ae80949dfd6a136a2be711a51ad.jpeg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__e1c77f8b57d59043756b91dc6a5e4d16.jpeg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__ff9163e4df20dcde01a3f863c60ece53.jpeg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__0ba585b8384f9d75ce3aed5f80fbe8de.jpeg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__8c4a512a0f056a51cdf8492307cd0558.jpeg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__a30ec10ae5bf80aea335236f4f06a390.jpeg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__0cbcf028e85a6662929878c3c75d493f.jpeg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        }
+                    ],
+                    "bigImageUrlList": [
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__de557e0ed3e2d2c04428f56b51a0ab39.jpeg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_MTMyKioqKjUwOTY=,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__1ba76f16a0c4048111c5c1b047805074.jpeg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_MTMyKioqKjUwOTY=,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__75d63ae80949dfd6a136a2be711a51ad.jpeg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_MTMyKioqKjUwOTY=,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__e1c77f8b57d59043756b91dc6a5e4d16.jpeg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_MTMyKioqKjUwOTY=,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__ff9163e4df20dcde01a3f863c60ece53.jpeg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_MTMyKioqKjUwOTY=,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__0ba585b8384f9d75ce3aed5f80fbe8de.jpeg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_MTMyKioqKjUwOTY=,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__8c4a512a0f056a51cdf8492307cd0558.jpeg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_MTMyKioqKjUwOTY=,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__a30ec10ae5bf80aea335236f4f06a390.jpeg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_MTMyKioqKjUwOTY=,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__0cbcf028e85a6662929878c3c75d493f.jpeg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_MTMyKioqKjUwOTY=,t_90,g_se,x_20,y_25"
+                    ],
+                    "thumbsUpNum": "1",
+                    "commentNum": "9",
+                    "shareNum": "6",
+                    "praised": "0",
+                    "status": "1",
+                    "command": {
+                        "content": "\/book\/router\/card_content_detail?rp=bookstore_index&rl=hot_sign_content&contentId=404572"
+                    },
+                    "videoInfo": [],
+                    "midiInfo": []
+                }
+            },
+            {
+                "marginTop": "0",
+                "body": {
+                    "tplId": "bd_book_store_sign_list",
+                    "bgColor": "#fcfcfc",
+                    "haveLine": 1,
+                    "id": "404529",
+                    "avatar": "https:\/\/9i.dvmama.com\/news\/2018\/12\/21\/356_356_224d698c5a057aa6a8b5fbf0960155eb.jpg",
+                    "nickName": "\u9047\u89c1\u597d\u5fc3\u60c5",
+                    "time": "2019-09-03",
+                    "upTitle": "",
+                    "content": "6\u73ed51\u53f7 \u674e\u5b87\u7a0b\u00a0 \u7b2c5.6.12.13.14.15",
+                    "dayCount": 7,
+                    "activityInfo": {
+                        "name": "\u5c0f\u5b66\u6570\u5b66\u4e09\u671f\u4f5c\u4e1a\u6253\u5361",
+                        "actImg": "https:\/\/9i.dvmama.com\/free\/2019\/07\/01\/561_282_2d4fd03baf603fda3b3d80d35f1a5eac.jpg",
+                        "command": {
+                            "content": "\/book\/router\/punching_activity?rp=bookstore_index&rl=hot_sign_content&actId=129"
+                        }
+                    },
+                    "imageUrlList": [
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__1b51d5ba0cf4316e96a6850b7f19fde8.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__1eb8cc50bc381e7e2a6ecd5c98b35cdc.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__0f2a3f545ed605eb0b548c01da3c5da6.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__d531fb78c5a717a34615d24e618d312b.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__de3c3aafc760f018fcdd0ced51dd3f1d.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__b86da779cc1e147f44afa7ea3a7d02be.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        },
+                        {
+                            "imageUrl": "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__250319d72f768d2f6afd75aa763561cd.jpg?x-oss-process=image\/resize,m_fill,w_200\/format,webp&"
+                        }
+                    ],
+                    "bigImageUrlList": [
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__1b51d5ba0cf4316e96a6850b7f19fde8.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_6YGH6KeB5aW95b-D5oOF,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__1eb8cc50bc381e7e2a6ecd5c98b35cdc.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_6YGH6KeB5aW95b-D5oOF,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__0f2a3f545ed605eb0b548c01da3c5da6.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_6YGH6KeB5aW95b-D5oOF,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__d531fb78c5a717a34615d24e618d312b.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_6YGH6KeB5aW95b-D5oOF,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__de3c3aafc760f018fcdd0ced51dd3f1d.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_6YGH6KeB5aW95b-D5oOF,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__b86da779cc1e147f44afa7ea3a7d02be.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_6YGH6KeB5aW95b-D5oOF,t_90,g_se,x_20,y_25",
+                        "https:\/\/9i.dvmama.com\/shop_logo\/2019\/09\/03\/src__250319d72f768d2f6afd75aa763561cd.jpg?x-oss-process=image\/resize,m_lfit,w_640,limit_0\/format,webp\/watermark,image_YXJ0aWNsZS8yMDE5LzA4LzA5LzI3Nl80OF9lYmQ0MDhmNDk5MmIzZGZiZDUyMzgyYzM4NjhhZWNjNy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8zMA==,t_90,g_se,x_20,y_50\/watermark,type_d3F5LXplbmhlaQ,size_20,shadow_25,color_FFFFFF,text_6YGH6KeB5aW95b-D5oOF,t_90,g_se,x_20,y_25"
+                    ],
+                    "thumbsUpNum": "1",
+                    "commentNum": "6",
+                    "shareNum": "0",
+                    "praised": "0",
+                    "status": "1",
+                    "command": {
+                        "content": "\/book\/router\/card_content_detail?rp=bookstore_index&rl=hot_sign_content&contentId=404529"
+                    },
+                    "videoInfo": [],
+                    "midiInfo": []
+                }
+            },
+            {
+                "hasMore": "0"
+            }
+        ]
+    }
+}

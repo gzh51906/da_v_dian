@@ -71,7 +71,7 @@ this.$router.push({
 
 
  async created() {
-    let lunboList = await this.$axios.get( 
+    let lunboList = await this.$axios.post( 
       "https://www.aizhiyi.com/mobile/index.php?act=promotion&key="
     );
      this.goodslist =lunboList.datas.goods_list;

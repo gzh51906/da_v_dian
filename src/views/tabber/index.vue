@@ -1,6 +1,8 @@
 <template>
   <div class="start">
-        <van-tabbar v-model="active" active-color="#fc345f">
+        <van-tabbar v-model="active" active-color="#fc345f"
+        v-if="this.$route.name=='home' | this.$route.name=='book' | this.$route.name=='cart'| this.$route.name=='my'| this.$route.name=='search'"
+        >
           <van-tabbar-item 
           v-for="(ele,index) in datalist"
             :key="index" 
@@ -38,6 +40,17 @@ data() {
           text: "小书库",
           url: "/book",
           icon: "friends-o"
+        },{
+          name: "cart",
+          text: "购物车",
+          url: "/cart",
+          icon: "shopping-cart-o"
+        },
+        {
+          name: "my",
+          text: "我的",
+          url: "/my",
+          icon: "contact"
         },
       ]
     };

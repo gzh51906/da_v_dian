@@ -11,6 +11,10 @@ import jianshu from '../views/book/pages/jianshu.vue'
 import dushu from '../views/book/pages/dushu.vue'
 import tingshu from '../views/book/pages/tingshu.vue'
 import detail from '../views/college/coll_lq/rou/detail.vue'
+import cart from '../views/cart/cart.vue'
+import login from '../views/cart/login/login.vue'
+import my from '../views/my/my.vue'
+import reg from '../views/reg/reg.vue'
 
 
 let router = new VueRouter({
@@ -70,6 +74,26 @@ let router = new VueRouter({
             path: '/detail',
             name: 'detail',
             component: detail,
+      },
+      {
+            path: '/cart',
+            name: 'cart',
+            component: cart,
+      },
+      {
+            path: '/login',
+            name: 'login',
+            component: login,
+      },
+      {
+            path: '/my',
+            name: 'my',
+            component: my,
+      },
+      {
+            path: '/reg',
+            name: 'reg',
+            component: reg,
       }
       ]
 })

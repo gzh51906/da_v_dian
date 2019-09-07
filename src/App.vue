@@ -16,6 +16,28 @@ export default {
   },
   components: {
     tabbar
+  },methods: {
+    changeActive(index, path) {
+      console.log(index, path);
+      this.active = index;
+    },
+    goto(path){
+      this.$router.push({path})
+    },
+    logout(){
+      this.$store.commit('logout');
+
+      if(this.$route.meta.requiresAuth){
+        this.$router.push({
+          path:'/login',
+          query:{targetUrl:this.$route.fullPath}
+        })
+      }
+    }
+  },
+  created() {
+    console.log(this.$route, this.$router); //this.$route获取当前路由信息
+    this.active = this.$route.path;
   }
 };
 </script>

@@ -242,10 +242,17 @@
 </template>
 
 <script>
+import xiao from "../../db/book.json"
+console.log(xiao);
+
 export default {
   name: "book",
+  xiao,
   data() {
     return {
+      goodslist:[],
+
+      
       menu: [
         {
           imgurl: "https://9i.dvmama.com/free/2019/04/22/11.png",
@@ -329,7 +336,7 @@ export default {
     goto(name) {
       this.$router.push(name);
     }
-  }
+  },
 };
 </script>
 <style scoped>

@@ -11,7 +11,7 @@
       </el-col>
       <el-col :span="4">
         <div class="grid-content bg-purple" style>
-          <i class="el-icon-s-home"></i>
+          <i></i>
         </div>
       </el-col>
     </el-row>
@@ -24,8 +24,23 @@
           <p>2019-9-2</p>
         </div>
       </el-tab-pane>
-      <el-tab-pane class="tabs-1" label="睡前故事" name="second">配置</el-tab-pane>
-      <el-tab-pane class="tabs-1" label="故事小主" name="third">角色</el-tab-pane>
+      <el-tab-pane class="tabs-2" label="睡前故事" name="second">
+         <div class="ta">
+          <img src="https://9i.dvmama.com/free/2019/08/15/605_605_efe9ca0879b1e92f237b2603c5d06d70.png?x-oss-process=image/resize,m_fill,w_210,h_210/format,webp" style="width:70px;height:70px" alt="">
+        </div>
+        <div class="ta-1">
+           <p class="ta-1-p">睡前故事 | 走马观花</p>
+          <p class="ta-1-pp">2019-9-5 | 4148 阅读数</p>
+        </div>
+      </el-tab-pane>
+      <el-tab-pane class="tabs-1" label="故事小主" name="third">
+      <div class="articles_1_img">
+      </div>
+         <div class="di">
+          <p>哈爸讲故事：《这不是我的帽子》</p>
+          <p>2019-9-2</p>
+        </div>
+      </el-tab-pane>
       <el-tab-pane class="tabs-1" label="晚安书语" name="fourth">
         <div>
           <img
@@ -85,6 +100,15 @@ export default {
   padding: 0;
 }
 .tabs {
+  margin-top: px;
   width: 100%;
+}
+.ta{margin-right: 10px;}
+.ta img{display: block;}
+.ta-1 .ta-1-p{margin-bottom: 32px;}
+.ta-1 .ta-1-pp{font-size: 12px}
+.tabs-2{display: flex;}
+.articles_1_img{width: 100%;height: 193px;background: url(https://9i.dvmama.com/free/2019/09/02/530_530_cc8773d8f3724c2016f9a4c9010b49ed.png?x-oss-process=image/resize,m_fill,w_1065,h_579/format,webp) no-repeat center center;
+background-size: 90%;
 }
 </style>
