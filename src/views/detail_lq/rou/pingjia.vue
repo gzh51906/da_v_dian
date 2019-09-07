@@ -71,9 +71,7 @@ export default {
     let kingkongList = await this.$axios.post(
       `https://www.aizhiyi.com/mobile/index.php?act=goods&op=goods_evaluate&goods_id=${lq_wd}&type=&curpage=1&page=10`
     );
-
     this.lqwdls = kingkongList;
-    console.log(this.lqwdls);
   }
 };
 </script>

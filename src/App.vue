@@ -2,7 +2,7 @@
   <div id="app">
     <!-- <h2>1</h2> -->
     <router-view />
-    <tabbar />
+    <div ref="tab"><tabbar /></div>
   </div>
 </template>
 
@@ -26,6 +26,7 @@ export default {
     /* overflow-x: hidden;
             overflow-y: scroll; */
 }
+
 .default{
      width: 375px;
     height: 100%;
@@ -35,11 +36,19 @@ export default {
     height: 100%;
 }
 
-/* .inner-container::-webkit-scrollbar {
-    display: none;
-     overflow-x: hidden;
-    overflow-y: scroll;
-} */
 
+
+
+.clearfix::before {
+  content: "";
+  clear: both;
+  display: block;
+  height: 0;
+  overflow: hidden;
+  visibility: hidden;
+}
+.unshow{
+  display: none;
+}
 
 </style>
