@@ -45,9 +45,11 @@ data() {
 }
 </script>
 
-<style scoped>
+<style >
 .start{
    position:fixed;
+   width: 100%;
+   height: 50px;
     bottom:0;
     z-index: 9;
 }

@@ -1,6 +1,5 @@
 <template>
 
-
  <div class="lq_body">
 <div class="deta_main">
 <van-row>
@@ -19,8 +18,11 @@
   </van-col>
   <van-col span="6">
    <div class="lsls">
-     <span>   <van-icon name="cart-o" size ='28'/></span>
-  <span>  <van-icon name="more-o" size ='28'/></span>
+     <span  @click = lq_cart()>   <van-icon name="cart-o" size ='28'/></span>
+  <span   class="spanspan"   @click = lq_but() >   <van-icon name="more-o" size ='28'/> 
+     </span>
+ <tanchuang   v-show="bol"  :father ='this'></tanchuang>
+
    </div>
   </van-col>
 </van-row>
@@ -39,28 +41,40 @@
    import shangping from "../detail_lq/rou/shangping.vue"
    import xiangqing from "../detail_lq/rou/xiangqing.vue"
    import pingjia from "../detail_lq/rou/pingjia.vue" 
+   import tanchuang from "../detail_lq/rou/tanchuang.vue" 
 export default {
     data() {
     return {
+       bol:false,
    users:['商品','详情',"评价"],
                 current:'shangping'
     }
   },
+
+  components:{
+     shangping,
+     xiangqing,
+     pingjia,
+     tanchuang
+     
+    },
+
+
   methods:{
 
+lq_but(){
+     this.bol = true;
+},
 
-
-
+lq_cart(){
+  console.log('122233');
+  this.$router.push({name:'cartlist'})
+},
 
 
   goback(){
     this.$router.go(-1)
   },
-
-
-
-
-
 
 
     current221(e){
@@ -79,32 +93,22 @@ export default {
   },
 
 
-
-
-
-
-
-
-
-
-  components:{
-     shangping,
-     xiangqing,
-     pingjia
-     
-    },
   
 
 }
 </script>
-
 <style scoped>
 .start{
    display:none;
+     z-index: -999;
 }
 .lq_body{
   width: 100%;
   height: 100%;
+}
+
+.spanspan{
+  position: relative;
 }
 .deta_main{
    width: 100%;

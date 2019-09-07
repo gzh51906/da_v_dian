@@ -50,7 +50,7 @@ export default {
     let icondata = await this.$axios.get( 
       "https://www.easy-mock.com/mock/5d6e0eb0e1b7901d4dfd568c/lq/lq"
     );
-     this.goodslist1 =icondata.data.data;
+     this.goodslist1 =icondata.data;
   },
 
 

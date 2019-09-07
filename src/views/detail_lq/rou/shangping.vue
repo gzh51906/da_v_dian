@@ -25,7 +25,7 @@
 
  <van-cell class="goods-express">
         <van-col span="24">
-          <van-icon name="passed" />正品保证 &nbsp <van-icon name="passed" /> 原地产直选  &nbsp &nbsp<van-icon name="passed" />7天无理由退货  
+          <van-icon name="passed" />正品保证 nbsp <van-icon name="passed" /> 原地产直选  nbsp  nbsp<van-icon name="passed" />7天无理由退货  
         </van-col>
       </van-cell>
 
@@ -56,35 +56,26 @@
             </ul>
 
 
-     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    <van-goods-action>
+        <div class="lslslqsa">
+              <van-goods-action>
       <van-goods-action-icon icon="chat-o" @click="sorry">
         客服
       </van-goods-action-icon>
       <van-goods-action-icon icon="cart-o" @click="onClickCart">
         购物车
       </van-goods-action-icon>
-      <van-goods-action-button type="warning" @click="sorry">
+   
+         <van-goods-action-button type="warning" @click="sorry" >
+           
         加入购物车
       </van-goods-action-button>
+      
       <van-goods-action-button type="danger" @click="sorry">
         立即购买
       </van-goods-action-button>
     </van-goods-action>
+        </div>
+
   </div>
 </template>
 
@@ -151,16 +142,13 @@ export default {
       `https://www.aizhiyi.com/mobile/index.php?act=goods&op=goods_detail&key=null&goods_id=${lq_wd}&num=3`
     );
   
-
+   
       this.lqwdls = kingkongList.datas
-
+   console.log(this.lqwdls);
 
   },
 //  let  arrarr = kingkongList.datas.goods_list;
               
-  
-
-
 
       //     for (var i = 0; i < arrarr.length; i++) {
       //  this.lqwdls = arrarr[i];
@@ -181,6 +169,11 @@ export default {
 
 
 <style lang="less" scoped>
+
+  .start{
+   display:none;
+     z-index: -999;
+}
 
 
 
@@ -214,13 +207,7 @@ export default {
     margin-left: 5px;
   }
 }
-  .start{
-   display:none;
-}
 
-.deta_weibu{
-  display: none;
-}
 .lq_lslq{
    width: 100%;
    height: 554px;
@@ -248,6 +235,13 @@ export default {
 }
 
 
+.lslslqsa{
+  z-index: 999;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+height: 100px;  
 
+}
 
 </style>

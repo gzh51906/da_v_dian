@@ -9,7 +9,7 @@
 </template>
 
 <script>
-import {getCatNavList} from "@network"
+import {getCatNavList} from "../../network"
 import sideBarl from "./goodscopms/sidebar"
 export default {
   name: "goodslist",
