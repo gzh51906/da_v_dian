@@ -2,7 +2,7 @@
   <div class="login">
     <el-row :gutter="24" style="margin:0;width:100%;text-align:center" class="ll">
       <el-col :span="3">
-        <div class="grid-content bg-purple" @click="goto('/cart')"><i class="el-icon-arrow-left"></i></div>
+        <div class="grid-content bg-purple" @click="goto('')"><i class="el-icon-arrow-left"></i></div>
       </el-col>
       <el-col :span="18">
         <div class="grid-content bg-purple" style="padding:8px 0;font-size: 18px;text-overflow: ellipsis;color:#fff">账号登录</div>
@@ -97,7 +97,18 @@ export default {
       submitForm(formName) {
         this.$refs[formName].validate((valid) => {
           if (valid) {
-            alert('登入成功');
+
+             this.$router.push('/cart')
+      //         let   tar = this.$router.currentRoute.query.targetUrl ||'/my';
+      //             console.log('123');
+      // this.$router.push(tar)
+
+
+
+            // console.log(this.$router.currentRoute.query.targetUrl);
+                
+        // this.$router.push( {path:`${this.$router.currentRoute.query.targetUrl}`})
+    
           } else {
             console.log('手机号或密码错误');
             return false;

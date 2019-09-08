@@ -22,7 +22,7 @@ export default {
         ]
     },
     getters: {
-        total(state) {
+        total21(state) {
             return state.cartlist.reduce((t, n) => {
                 if (n.ischeck) {
                     return t + n.qty * n.price
@@ -35,25 +35,16 @@ export default {
 
 
     mutations: {
-        contjia(state){
-state.cont+=1
-        },
- contjian(state){
-     state.cont-=1
- },
-
-
-
+//         contjia(state){
+// state.cont+=1
+//         },
+//  contjian(state){
+//      state.cont-=1
+//  },
 
     removeItem(state,id){
             state.cartlist = state.cartlist.filter(item=>item.goods_id!=id);
         },
-
-
-
-
-
-
 
 
         

@@ -58,7 +58,7 @@ export default {
     },
 
 total21(){
-         return this.$store. getters.total
+         return this.$store. getters.total21
     },
 
   },

@@ -36,7 +36,6 @@ export default {
     }
   },
   created() {
-    console.log(this.$route, this.$router); //this.$route获取当前路由信息
     this.active = this.$route.path;
   }
 };

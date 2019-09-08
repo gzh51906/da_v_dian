@@ -1,8 +1,8 @@
 <template>
   <div id="my">
       <div class="e">
-          <div class="tou" @click="goto('/login')"></div>
-          <div @click="goto('/login')">点击登录</div>
+          <div class="tou" @click="gotoshang('/login')"></div>
+          <div @click="gotoshang('/login')">点击登录</div>
       </div>
       <div class="ee">
          <div class="ee-1">

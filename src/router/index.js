@@ -25,8 +25,19 @@ let router = new VueRouter({
     routes: [{
             path: '/home',
             name: 'home',
+          
             component: Home,
         },
+                {
+ path: '/',
+ alias:'index.html',
+ redirect:()=>{
+     return '/home'
+ }
+                },
+
+
+
         {
             path: '/goodslist',
             name: 'goodslist',
@@ -109,6 +120,7 @@ let router = new VueRouter({
             path: '/my',
             name: 'my',
             component: my,
+               meta: { requiresAuth: true }
       },
       {
             path: '/reg',
@@ -116,8 +128,50 @@ let router = new VueRouter({
             component: reg,
       }
       ]
+
+      
+});
+
+
+
+
+
+// 路由拦截
+router.beforeEach(function(to,from,next){
+
+    // 判断目标路由是否需要登录权限
+    if(to.meta.requiresAuth){
+        // 判断是否已登录
+        let authorization = localStorage.getItem('Authorization');
+        if(authorization){
+            // 发起校验
+           
+            next();
+        }else{
+            next({
+                path:'/login',
+                query:{targetUrl:to.fullPath}
+            })
+        }
+    }else{
+        next();
+    }
+ 
 })
-   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 // router.beforeEach(function (to, from, next) {
