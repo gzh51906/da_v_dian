@@ -64,7 +64,7 @@ export default {
     font-size: 0.11rem;
     line-height: 0.2rem;
     display: inline-block;
-    margin-top: 0.625rem; 
+    margin-top: 1.625rem; 
 }
 
 </style>

@@ -128,24 +128,20 @@ let router = new VueRouter({
             component: reg,
       }
       ]
-
-      
 });
-
-
-
 
 
 // 路由拦截
 router.beforeEach(function(to,from,next){
-
+    
     // 判断目标路由是否需要登录权限
+    
     if(to.meta.requiresAuth){
         // 判断是否已登录
+        //   let  data = 0;
         let authorization = localStorage.getItem('Authorization');
         if(authorization){
             // 发起校验
-           
             next();
         }else{
             next({

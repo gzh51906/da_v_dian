@@ -96,24 +96,35 @@ export default {
     methods: {
       submitForm(formName) {
         this.$refs[formName].validate((valid) => {
-          if (valid) {
-
-             this.$router.push('/cart')
+          
+             let authorization = localStorage.setItem('Authorization',"cdd");
+                if (valid) {
+             this.$router.push('/my')
       //         let   tar = this.$router.currentRoute.query.targetUrl ||'/my';
       //             console.log('123');
       // this.$router.push(tar)
-
-
 
             // console.log(this.$router.currentRoute.query.targetUrl);
                 
         // this.$router.push( {path:`${this.$router.currentRoute.query.targetUrl}`})
     
-          } else {
+          }      else {
+                this.$router.push('/my')
             console.log('手机号或密码错误');
             return false;
           }
-        });
+
+       
+        
+          
+          
+          
+          
+          // else {
+          //   console.log('手机号或密码错误');
+          //   return false;
+          // }
+        })
       },
       resetForm(formName) {
         this.$refs[formName].resetFields();

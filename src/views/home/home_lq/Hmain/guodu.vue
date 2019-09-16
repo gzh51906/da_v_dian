@@ -70,7 +70,7 @@ export default {};
   overflow: hidden;
   line-height: 0.2rem;
   color: #666;
-  margin-top: 0.625rem;
+  margin-top:2.625rem;
 }
 .index-news-left {
   display: inline-block;
