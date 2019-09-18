@@ -135,6 +135,11 @@ export default {
   },
 
     async created() {
+        this.$toast.loading({
+  mask: true,
+  message: '加载中...',
+  duration:2000
+});
      
         let lq_wd = this.$route.params.id
     let kingkongList = await this.$axios.post( 

@@ -19,7 +19,7 @@ import { List } from 'vant';
 import { Icon } from 'vant';
 
 import { Image } from 'vant';
-
+import { Toast } from 'vant';
 
 
 import { NavBar } from 'vant';
@@ -42,6 +42,7 @@ Vue
 
 
 export default ()=>{
+  Vue.use(Toast);
   Vue.use(Stepper);
   Vue.use(Rate);
     Vue.use(Sku);

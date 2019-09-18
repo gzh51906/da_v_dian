@@ -2,6 +2,11 @@
      <div>
         <div class="header-wrap">
                     会员福利
+                      <van-col span="2">
+    <div class="lqsxn">
+       <i @click="goback"><van-icon name="arrow-left" size ='28'/></i>
+    </div>
+  </van-col>
         </div>
 
     <van-tabs>
@@ -26,7 +31,11 @@
 import xianshigou from "./xianshigou"
 import bingtuan from "./bingtuan"
 export default {
-
+   methods:{
+  goback(){
+    this.$router.go(-1)
+  },
+},
 components:{
      xianshigou,
      bingtuan

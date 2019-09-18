@@ -1,6 +1,7 @@
 <template>
 
- <div class="lq_body">
+ <div class="lq_body" >
+
 <div class="deta_main">
 <van-row>
   <van-col span="6">
@@ -28,8 +29,7 @@
 </van-row>
      
    </div>
-     <component :is="current"></component>
-
+     <component :is="current" ></component>
 
  </div>
    

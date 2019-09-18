@@ -9,7 +9,7 @@ export default {
                 img: "https://www.aizhiyi.com/data/upload/shop/store/goods/166/2018/12/26/166_05991397390945243_360.jpg",
                 goodsp:' 精进铁矿石摆件_创意小和尚摆件 绿色 原石生林 ',
                 price: 499,
-                ischeck: true
+             
             },
             {
                 qty: 2,
@@ -17,8 +17,9 @@ export default {
                 img: "https://www.aizhiyi.com/data/upload/shop/store/goods/162/2018/05/24/162_05805010672453908_360.jpg",
                 price: 399,
                   goodsp:'  日出东方茶礼组合_香器茶具套装 可定制 万春和 单件 ',
-                ischeck: true
-            }
+              
+            },
+     
         ]
     },
     getters: {
